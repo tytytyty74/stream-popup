@@ -5,3 +5,5 @@ a simple program that will utilizes python and nodejs to create popups for your 
 3. set the url to http://localhost:3000/
 4. run stream.py
 5. use the gui to customize the popup, then click the go button when you want it to appear
+
+sorry it has to be a zip folder, node_modues is too large to store without it being a zip
